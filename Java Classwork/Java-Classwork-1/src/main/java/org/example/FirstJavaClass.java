@@ -28,4 +28,10 @@ public class FirstJavaClass {
         // Single character ONLY
 
         long ms = System.currentTimeMillis();
+
+        //---------------------------
+        int zero = 4 % 2;
+        int one = 5 % 2;
+
+    }
 }
