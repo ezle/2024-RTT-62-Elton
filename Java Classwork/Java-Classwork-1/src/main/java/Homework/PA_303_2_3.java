@@ -47,6 +47,6 @@ public class PA_303_2_3 {
         int sum = sumpost + h;
         System.out.println("Sum with post-increment: " + sumPost);
 
-        
+
     }
 }
