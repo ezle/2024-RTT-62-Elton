@@ -44,8 +44,10 @@ public class PA_303_2_3 {
         int i = 8;
         int sumPre = ++x + y;
         System.out.println("Sum with pre-increment: " + sumPre);
+        int sumpost = 0;
         int sum = sumpost + h;
-        System.out.println("Sum with post-increment: " + sumPost);
+        String sumPost = "";
+        System.out.println("Sum with post-increment: ");
 
 
     }
